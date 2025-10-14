@@ -1,5 +1,7 @@
 # Live Trading Bot
 
+#THIS IS A TEST BOT FOR IDEAS AND FORMAT AND CURRENTLY DOESNT WORK 
+
 This project is a live trading bot that continuously runs to generate buy and sell signals based on various trading strategies. It utilizes market indicators to inform trading decisions and interacts with the Alpaca API for executing trades.
 
 ## Project Structure
