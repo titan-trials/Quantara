@@ -6,7 +6,7 @@ I’ve restarted and significantly improved this project in a new, private repos
 
 If you’re interested in viewing the current version or discussing the project, feel free to reach out:
 
-📧 nolannrodriguez@gmail.com
-📧 nonrodri@ucsc.edu
+- nolannrodriguez@gmail.com
+- nonrodri@ucsc.edu
 
 Please include a brief introduction and your reason for interest when contacting me.
